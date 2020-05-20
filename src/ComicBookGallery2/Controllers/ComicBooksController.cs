@@ -1,5 +1,5 @@
-﻿using ComicBookGallery1.Data;
-using ComicBookGallery1.Models;
+﻿using ComicBookGallery2.Data;
+using ComicBookGallery2.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
